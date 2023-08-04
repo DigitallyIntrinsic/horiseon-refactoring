@@ -20,10 +20,6 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -118,4 +114,8 @@ p {
 .container h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+#seo {
+    color: #d9dcd6;
 }
