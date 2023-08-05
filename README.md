@@ -7,7 +7,9 @@ While we started with the code base already, there was some bloat and redundanci
 
 ## Usage
 
-Please peruse the webpage at your leisure, the links are non-working links
+Please peruse the webpage at your leisure, the links on the webpage itself are non-working links
+
+Link to website: https://digitallyintrinsic.github.io/horiseon-refactoring/
 
 ## See something that could be better?
 
@@ -18,3 +20,7 @@ If you notice anything that can be made better, please do not hesitate to let me
 This is created under the MIT License convention.
 
 ---
+
+```md
+    ![The final product should look like this](./assets/images/homework-sample.png)
+    ```
