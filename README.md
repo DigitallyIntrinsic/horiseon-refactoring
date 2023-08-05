@@ -21,6 +21,4 @@ This is created under the MIT License convention.
 
 ---
 
-```md
     ![The final product should look like this](./assets/images/homework-sample.png)
-    ```
