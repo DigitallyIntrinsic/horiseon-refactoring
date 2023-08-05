@@ -70,7 +70,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Removed a handful of duplicates here and consolidated under benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -81,7 +81,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Removed a handful of duplicates here and consolidated under sub-benefit */
 .sub-benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -97,7 +97,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Removed a handful of duplicates here and consolidated under container class */
 .container {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Changed this from a class to an id as it only targeted these three letters */
 #seo {
     color: #d9dcd6;
 }
