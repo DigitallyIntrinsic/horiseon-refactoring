@@ -21,4 +21,4 @@ This is created under the MIT License convention.
 
 ---
 
-    ![The final product should look like this](homework-sample.png)
+![homework-sample](https://github.com/DigitallyIntrinsic/horiseon-refactoring/assets/139934612/3b30a6c5-5385-4c2b-845f-479f8aa2cc6d)
