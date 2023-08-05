@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Moved these selectors up here just to clean up the structure order */
 a {
     color: #ffffff;
     text-decoration: none;
