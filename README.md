@@ -9,7 +9,8 @@ While we started with the code base already, there was some bloat and redundanci
 
 Please peruse the webpage at your leisure, the links on the webpage itself are non-working links
 
-Link to website: https://digitallyintrinsic.github.io/horiseon-refactoring/
+* [GitHub Repository] (https://github.com/DigitallyIntrinsic/horiseon-refactoring)
+* [Deployed GitHub IO] (https://digitallyintrinsic.github.io/horiseon-refactoring/)
 
 ## See something that could be better?
 
